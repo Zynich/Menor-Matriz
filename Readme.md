@@ -1,1 +1,3 @@
-# Função que retorna quantas vezes uma submatriz é encontrada dentro de uma matriz principal
+# Função achar submatriz
+
+### Função que retorna quantas vezes uma submatriz é encontrada dentro de uma matriz principal
